@@ -73,7 +73,7 @@ Watchy comes pre-loaded with firmware that demonstrates all the basic features. 
 4. Select Tools > Flash Size > **8MB (64Mb)**
 5. Select Tools > Partition Scheme > **8M with spiffs...**
 6. Leave everything else as default
-7. Choose an example and click upload
+7. Select File > Examples > Watchy (near bottom). Choose an example and click upload
 8. After upload is complete, reset Watchy to run the new uploaded firmware
 
 ### How to reset Watchy
